@@ -2,3 +2,4 @@ hi
 hello
 
 echo "How are you"
+echo "I am good and how about you"
